@@ -12,7 +12,7 @@
   "pluginOptions": {},
   "attributes": {
     "timeOrDate": {
-      "type": "time"
+      "type": "datetime"
     }
   }
 }
